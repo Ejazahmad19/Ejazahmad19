@@ -1,7 +1,7 @@
 # Hey, I'm Ejaz!
 
-Mobile Developer | Game Developer | Web Developer @ [Oxbit Software](https://play.google.com/store/apps/developer?id=Oxbit+Software)  
-🏢 Working at **PeaceInfotech**, building production Android apps
+Mobile Developer | Game Developer | Web Developer @ [Oxbit Software](https://oxbit.vercel.app/)  
+🏢 Working at **PeaceInfotech**, building production Mobile apps
 
 ---
 
