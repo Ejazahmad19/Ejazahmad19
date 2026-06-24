@@ -1,6 +1,6 @@
 # Hey, I'm Ejaz Ahmad 👋
 
-🤖 Mobile Developer | 📱 Indie App Creator @ [Oxbit Software](https://play.google.com/store/apps/developer?id=Oxbit+Software)  
+Mobile Developer | Game Developer | Web Developer @ [Oxbit Software](https://play.google.com/store/apps/developer?id=Oxbit+Software)  
 🏢 Working at **PeaceInfotech**, building production Android apps
 
 ---
