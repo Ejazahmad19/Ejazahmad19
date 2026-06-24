@@ -1,17 +1,20 @@
-# Hey, I'm Ejaz Ahmad 👋
+# Hey, I'm Ejaz!
 
 Mobile Developer | Game Developer | Web Developer @ [Oxbit Software](https://play.google.com/store/apps/developer?id=Oxbit+Software)  
 🏢 Working at **PeaceInfotech**, building production Android apps
 
 ---
 
-## 🚀 What I'm Building
+## What I've Built
 
 - 🌿 **GardenWala** — Multi-role garden management app (Client / Supervisor / Gardener)
-- 💰 **Dharma Investments** — Investment tracking & portfolio app
+- 💰 **Dhhaarma Connect** — Investment tracking, MLM & portfolio app
+- 🎯 **Tickend** — Office attendance tracking with geolocation & face recognition *(Java/XML)*
 - 🔍 **Clarify** — [Play Store](https://play.google.com/...)
 - ❓ **AskMeUp** — [Play Store](https://play.google.com/...)
 - 🎨 **Artly** — [Play Store](https://play.google.com/...)
+- 📄 **Resume Maker** — [Play Store](https://play.google.com/store/apps/details?id=com.ejazapps.resumemaker)
+- 🎮 **BounceUp** — Endless bounce game *(Unity / C#)*
 
 ---
 
