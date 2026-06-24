@@ -8,12 +8,12 @@ Mobile Developer | Game Developer | Web Developer @ [Oxbit Software](https://oxb
 ## What I've Built
 
 - 🌿 **GardenWala** — Multi-role garden management app (Client / Supervisor / Gardener)
-- 💰 **Dhhaarma Connect** — Investment tracking, MLM & portfolio app
-- 🎯 **Tickend** — Office attendance tracking with geolocation & face recognition *(Java/XML)*
-- 🔍 **Clarify** — [Play Store](https://play.google.com/...)
-- ❓ **AskMeUp** — [Play Store](https://play.google.com/...)
-- 🎨 **Artly** — [Play Store](https://play.google.com/...)
+- 💰 **Dhhaarma Connect** — [Play Store](https://play.google.com/store/apps/details?id=com.peaceinfotech.dharmainvestments)
+- 🔍 **Clarify** — [Play Store](https://play.google.com/store/apps/details?id=com.oxbit.clarify&hl=en_IN)
+- ❓ **AskMeUp** — [Play Store](https://play.google.com/store/apps/details?id=com.ejazapps.askmeup)
+- 🎨 **Artly** — [Play Store](https://play.google.com/store/apps/details?id=com.ejazapps.artly)
 - 📄 **Resume Maker** — [Play Store](https://play.google.com/store/apps/details?id=com.ejazapps.resumemaker)
+- 🎯 **Tickend** — Office attendance tracking with geolocation & face recognition *(Java/XML)*
 - 🎮 **BounceUp** — Endless bounce game *(Unity / C#)*
 
 ---
